@@ -1,6 +1,6 @@
 # HubSpot CMS Pricing card module
 
-![Pricing card screenshot]('./screenshots/1-pricing-card.png)
+![Pricing card screenshot](https://raw.githubusercontent.com/gcorne/hubspot-pricing-module/master/screenshots/1-pricing-card.png)
 
 The **Pricing card module** is a simple module for the HubSpot CMS that demonstrates how using a repeater and other features of the module system can be used to create a simple editing experience. The module is part of the [HubSpot CMS Theme Boilerplate](https://github.com/HubSpot/cms-theme-boilerplate), so the best way to see the module in action together with other modules is to play around with the boilerplate.
 
